@@ -7,3 +7,4 @@ if An == Tran:
     print("An bằng Trân")
 else:
     print("Trân gà hơn An")
+    An -= 1
