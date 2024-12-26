@@ -8,3 +8,4 @@ if An == Tran:
 else:
     print("Trân gà hơn An")
     An -= 1
+print("hahaha")
