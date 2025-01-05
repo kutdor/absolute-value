@@ -1,1 +1,1 @@
-ADU ĂNG SENG !!!
+absolute value
